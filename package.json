@@ -1,0 +1,18 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "Bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
